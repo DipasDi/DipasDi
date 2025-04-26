@@ -1,4 +1,4 @@
-![AnimeCat](https://media.tenor.com/G4ik0ti_8b0AAAAi/bored-mafumafu.gif "AnimeCat")![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=008CC5&width=435&lines=Hi%2C+i%60am+Dipas)
+![AnimeCat](https://i.imgur.com/shTVQAS.gif "AnimeCat")![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=008CC5&width=435&lines=Hi%2C+i%60am+Dipas)
 
 <!--
 **DipasDi/DipasDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
