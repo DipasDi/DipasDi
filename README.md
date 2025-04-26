@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="12" />
+  <img width="20" />
   <img src="https://i.imgur.com/YNcmMmB.gif" height="100" alt="javascript logo"  />   
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=008CC5&width=435&lines=Hi%2C+i%60am+Dipas" height="60" alt="git logo"  />
   </div>
