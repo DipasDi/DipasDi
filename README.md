@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DipasDi&show_icons=true&theme=radical" height="150" alt=""  />
   <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=DipasDi&theme=dark&hide_border=true" height="150" alt="javascript logo"  />
+  <img src="https://streak-stats.demolab.com?user=DipasDi&theme=dark&hide_border=true" height="150" />
   <img width="12" />
 </div>
 
