@@ -60,9 +60,7 @@
 ###
 <div align="left">
   <a href="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png">
-  <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" height="30" alt="" />
-  </a>
-  <img width="12"/>
+  <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" height="30" alt="" /></a>
   <a href="https://discord.com/users/1075427758898950174">
   <img src="https://freelogopng.com/images/all_img/1691730813discord-icon-png.png" height="30" alt="" />
   </a>
