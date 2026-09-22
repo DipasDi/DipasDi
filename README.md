@@ -2,179 +2,226 @@
 
 # DIPAS
 
-### Software Engineer · Go Developer · Builder
+### Software Engineer · Go Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=98A2B3&center=true&vCenter=true&width=650&lines=Building+systems%2C+products+and+developer+tools;Focused+on+Go%2C+backend+and+clean+engineering;I+like+turning+ideas+into+working+software." />
+Building backend systems, products and tools
+with a focus on **Go, architecture, performance and clean engineering**.
 
 <br/>
 
 <a href="https://github.com/DipasDi">
-  <img src="https://img.shields.io/github/followers/DipasDi?style=flat-square&label=Followers&color=161b22" />
+  <img src="https://img.shields.io/badge/GitHub-DipasDi-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/DipasDi?tab=repositories">
-  <img src="https://img.shields.io/github/stars/DipasDi?style=flat-square&label=Stars&color=161b22" />
+<a href="https://t.me/Dipas_di">
+  <img src="https://img.shields.io/badge/Telegram-Contact-0D1117?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://github.com/DipasDi">
-  <img src="https://komarev.com/ghpvc/?username=DipasDi&style=flat-square&color=161b22&label=Profile+views" />
-</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=I+build+software%2C+not+just+features.;Go+%7C+Backend+%7C+Systems+%7C+Performance;Design+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 / About`
+
+I'm a software engineer interested in building things that are not only functional, but also **well designed, measurable and maintainable**.
+
+My main focus is **Go and backend engineering**, but I also enjoy working across the stack when the product needs it.
 
 ```text
-Dipas
+Focus
+────────────────────────────────────────
 
-Software Engineer focused on Go and backend development.
-
-I enjoy building:
-→ APIs
-→ backend services
-→ real-time systems
-→ developer tools
-→ products with thoughtful UX
-
-I care about:
-→ architecture
-→ performance
-→ maintainability
-→ observability
-→ clean interfaces between systems
+Go
+Backend Development
+REST APIs
+Real-time Systems
+Databases
+System Design
+Performance
+Developer Tools
 ```
 
 ---
 
-## `> engineering`
-
-### Core
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="42" alt="Go" />
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=php" height="42" alt="PHP" />
-</p>
-
-### Backend / Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" />
-</p>
-
----
-
-## `> selected work`
+## `02 / What I Build`
 
 <table>
 <tr>
 <td width="50%">
 
-### Kotichi
+### Backend Systems
 
-A product built around gaming communities, communication and social interaction.
+APIs, services and application backends designed around clear boundaries and predictable behavior.
 
-**Focus**
-
-`React Native` `Expo` `Go` `Backend`
+`Go` `REST` `WebSockets` `SQL`
 
 </td>
 
 <td width="50%">
 
-### RustyMoon
+### Products
 
-Systems-oriented project focused on learning, experimentation and engineering.
+From the backend to the interface — I like understanding the entire system behind a product.
 
-**Focus**
+`React` `React Native` `Expo`
 
-`Rust` `Backend` `Systems`
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Engineering Tools
+
+Small tools, experiments and systems that help understand how software behaves under the hood.
+
+`Go` `Linux` `Git`
+
+</td>
+
+<td>
+
+### Performance
+
+I enjoy measuring systems, finding bottlenecks and understanding why something is fast or slow.
+
+`Benchmarks` `Profiling` `Optimization`
 
 </td>
 </tr>
 </table>
 
-<p align="center">
+---
+
+## `03 / Selected Projects`
+
+### 🟢 Kotichi
+
+**Social platform for gamers and digital communities.**
+
+A product combining community features, messaging and real-time interaction in one environment.
+
+```text
+React Native
+Expo
+Go
+Backend
+Realtime
+```
+
+[View repository →](https://github.com/DipasDi)
+
+---
+
+### 🌙 RustyMoon
+
+**Systems-oriented software project.**
+
+A project focused on low-level thinking, experimentation and learning through implementation.
+
+```text
+Rust
+Systems
+Architecture
+Engineering
+```
+
+[View repository →](https://github.com/DipasDi/rustymoon)
+
+---
+
+<div align="center">
 
 <a href="https://github.com/DipasDi?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</div>
+
+---
+
+## `04 / Engineering`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,rust,js,php,html,css" />
+</p>
+
+### Backend & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,nginx,linux,git" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma" />
 </p>
 
 ---
 
-## `> how i think`
+## `05 / How I Think`
+
+I don't like measuring engineering with percentage bars.
+
+Instead:
 
 ```text
-A feature is not finished when it works.
+Idea
+  ↓
+Understand the problem
+  ↓
+Design the system
+  ↓
+Build
+  ↓
+Measure
+  ↓
+Find bottlenecks
+  ↓
+Improve
+```
 
-It is finished when:
-• the architecture makes sense
-• failure cases are considered
-• performance is measurable
-• the code can be maintained
-• the user experience feels intentional
+### Principles
+
+```text
+01  Make it understandable.
+02  Measure before optimizing.
+03  Design for failure.
+04  Keep boundaries clear.
+05  Prefer simple solutions when they are enough.
 ```
 
 ---
 
-## `> github telemetry`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DipasDi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=DipasDi&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681" height="165" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipasDi&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## `> currently exploring`
+## `06 / Currently Exploring`
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**Go**
+### Go
 
 ```text
 HTTP
 Concurrency
 Architecture
-Performance
 Testing
+Benchmarking
 Profiling
+Performance
 ```
 
 </td>
 
-<td>
+<td width="50%">
 
-**Backend**
+### Backend
 
 ```text
 REST APIs
@@ -182,7 +229,7 @@ WebSockets
 Caching
 Databases
 Observability
-System design
+System Design
 ```
 
 </td>
@@ -191,20 +238,36 @@ System design
 
 ---
 
-## `> connect`
+## `07 / GitHub Activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DipasDi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=DipasDi&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipasDi&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## `08 / Let's Connect`
 
 <div align="center">
 
 <a href="https://github.com/DipasDi">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://t.me/Dipas_di">
-  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://discord.com/users/1075427758898950174">
-  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FFFFFF"/>
 </a>
 
 </div>
