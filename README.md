@@ -68,15 +68,3 @@
   <img src="https://freelogopng.com/images/all_img/1691730813discord-icon-png.png" height="30" alt="" /></a>
 </div>
 
-
-<h1 align="center">🌱 Some projects</h1>
-
-###
-<div align="left">
-  <a href="https://rustymoon.io">
-  <img src="https://rustymoon.io/assets/image/svg/logo.svg" height="60" alt="" /></a>
-  <img width="12"/>
-</div>
-
-
-
