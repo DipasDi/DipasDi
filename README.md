@@ -204,8 +204,7 @@ System Design
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DipasDi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipasDi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
 <br/><br/>
 
 
