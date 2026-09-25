@@ -204,8 +204,7 @@ System Design
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipasDi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=DipasDi&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681" height="165"/><br/><br/>
 
 
 </div>
