@@ -204,10 +204,7 @@ System Design
 ## `07` · GitHub Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DipasDi&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681" height="165"/><br/><br/>
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipasDi&theme=solarized_dark)
 </div>
 
 <br/>
