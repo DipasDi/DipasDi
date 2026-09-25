@@ -22,6 +22,7 @@
 
 <img src="https://img.shields.io/badge/Focus-Go%20%26%20Backend-0D1117?style=flat-square&labelColor=161B22&color=58A6FF"/>
 <img src="https://img.shields.io/badge/Based%20on-Architecture%20%26%20Performance-0D1117?style=flat-square&labelColor=161B22&color=58A6FF"/>
+<img src="https://komarev.com/ghpvc/?username=DIpasDi" alt=""/>
 
 </div>
 
