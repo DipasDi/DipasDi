@@ -139,7 +139,7 @@ Systems-oriented software project focused on low-level thinking, experimentation
 ## `04` · Engineering
 
 <table width="100%">
-<tr><td width="140" valign="top"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=go,rust,js,php,html,css"/></td></tr>
+<tr><td width="140" valign="top"><b>Languages</b>
 <tr><td valign="top"><b>Backend & Infra</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,nginx,linux,git"/></td></tr>
 <tr><td valign="top"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=vscode,figma"/></td></tr>
 </table>
