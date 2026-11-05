@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=DIPAS&fontSize=60&fontColor=58A6FF&fontAlignY=42&desc=Software%20Engineer%20·%20Go%20Developer&descAlignY=62&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=DIPAS&fontSize=60&fontColor=58A6FF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Go%20Developer&descAlignY=62&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/DipasDi">
-  <img src="https://img.shields.io/badge/GitHub-DipasDi-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" />
-</a>
-<a href="https://t.me/Dipas_di">
-  <img src="https://img.shields.io/badge/Telegram-Contact-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" />
-</a>
-<a href="https://discord.com/users/1075427758898950174">
-  <img src="https://img.shields.io/badge/Discord-Dipas-0D1117?style=for-the-badge&logo=discord&logoColor=58A6FF&labelColor=0D1117" />
-</a>
+<a href="https://github.com/DipasDi"><img src="https://img.shields.io/badge/GitHub-DipasDi-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" /></a>
+<a href="https://t.me/Dipas_di"><img src="https://img.shields.io/badge/Telegram-Contact-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" /></a>
+<a href="https://discord.com/users/1075427758898950174"><img src="https://img.shields.io/badge/Discord-Dipas-0D1117?style=for-the-badge&logo=discord&logoColor=58A6FF&labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -22,72 +16,36 @@
 
 <img src="https://img.shields.io/badge/Focus-Go%20%26%20Backend-0D1117?style=flat-square&labelColor=161B22&color=58A6FF"/>
 <img src="https://img.shields.io/badge/Based%20on-Architecture%20%26%20Performance-0D1117?style=flat-square&labelColor=161B22&color=58A6FF"/>
-<img src="https://komarev.com/ghpvc/?username=DIpasDi" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=DipasDi&style=flat-square&labelColor=161B22&color=58A6FF" alt="Views"/>
 
 </div>
 
 <br/>
 
-## `01` · About
+## `01` · Core Focus & Principles
 
-I'm a software engineer interested in building things that are not only functional, but also **well designed, measurable and maintainable**.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-My main focus is **Go and backend engineering**, but I also enjoy working across the stack when a product needs it.
-
-<table>
-<tr><td>
-
+**What I Build**
 ```text
-Go              Backend Development     REST APIs
-Real-time       Databases                System Design
-Performance     Developer Tools
+• Backend:      Go, REST APIs, WebSockets, SQL/NoSQL
+• Performance:  Profiling, Benchmarking, Optimization
+• Systems:      Architecture, Caching, Observability
+• Full-stack:   React, React Native, Expo (when needed)
 ```
 
-</td></tr>
-</table>
-
-<br/>
-
-## `02` · What I Build
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Backend Systems**
-<br/>
-APIs, services and application backends designed around clear boundaries and predictable behavior.
-
-`Go` `REST` `WebSockets` `SQL`
-
 </td>
 <td width="50%" valign="top">
 
-**Products**
-<br/>
-From the backend to the interface — I like understanding the entire system behind a product.
-
-`React` `React Native` `Expo`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Engineering Tools**
-<br/>
-Small tools, experiments and systems that help understand how software behaves under the hood.
-
-`Go` `Linux` `Git`
-
-</td>
-<td width="50%" valign="top">
-
-**Performance**
-<br/>
-I enjoy measuring systems, finding bottlenecks and understanding why something is fast or slow.
-
-`Benchmarks` `Profiling` `Optimization`
+**Engineering Approach**
+```text
+01  Make it understandable and maintainable.
+02  Measure and profile before optimizing.
+03  Design for failure & keep boundaries clear.
+04  Prefer simple, predictable solutions.
+```
 
 </td>
 </tr>
@@ -95,136 +53,53 @@ I enjoy measuring systems, finding bottlenecks and understanding why something i
 
 <br/>
 
-## `03` · Selected Projects
+## `02` · Tech Stack
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🟢&nbsp; Kotichi
-
-Social platform for gamers and digital communities — combining community features, messaging and real-time interaction in one environment.
-
-`React Native` `Expo` `Go` `Backend` `Realtime`
-
-**[View repository →](https://github.com/DipasDi)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌙&nbsp; RustyMoon
-
-Systems-oriented software project focused on low-level thinking, experimentation and learning through implementation.
-
-`Rust` `Systems` `Architecture` `Engineering`
-
-**[View repository →](https://github.com/DipasDi/rustymoon)**
-
-</td>
+  <td width="160" valign="middle"><b>Languages & UI</b></td>
+  <td><img src="https://skillicons.dev/icons?i=go,ts,js,react" /></td>
+</tr>
+<tr>
+  <td width="160" valign="middle"><b>Backend & Infra</b></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,nginx,docker,linux,git" /></td>
+</tr>
+<tr>
+  <td width="160" valign="middle"><b>Tools</b></td>
+  <td><img src="https://skillicons.dev/icons?i=vscode,figma" /></td>
 </tr>
 </table>
 
 <div align="center">
-
 <br/>
-
 <a href="https://github.com/DipasDi?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
 </a>
-
 </div>
 
 <br/>
 
-## `04` · Engineering
-
-<table width="100%">
-<tr><td width="140" valign="top"><b>Languages</b>
-<tr><td valign="top"><b>Backend & Infra</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,nginx,linux,git"/></td></tr>
-<tr><td valign="top"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=vscode,figma"/></td></tr>
-</table>
-
-<br/>
-
-## `05` · How I Think
-
-I don't like measuring engineering with percentage bars — I prefer a process.
+## `03` · Metrics & Activity
 
 <div align="center">
-
-```text
-Idea → Understand the problem → Design the system → Build → Measure → Find bottlenecks → Improve
-```
-
-</div>
-
-**Principles**
-
-```text
-01   Make it understandable.
-02   Measure before optimizing.
-03   Design for failure.
-04   Keep boundaries clear.
-05   Prefer simple solutions when they are enough.
-```
-
-<br/>
-
-## `06` · Currently Exploring
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Go**
-```text
-HTTP · Concurrency
-Architecture · Testing
-Benchmarking · Profiling
-Performance
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Backend**
-```text
-REST APIs · WebSockets
-Caching · Databases
-Observability
-System Design
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `07` · GitHub Activity
-
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipasDi&theme=solarized_dark)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipasDi&theme=github_dark" width="100%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipasDi&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipasDi&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DipasDi&theme=github_dark&utcOffset=3" height="165" />
 </div>
 
 <br/>
 
-## `08` · Let's Connect
-
 <div align="center">
+
+```text
+Idea → Design → Build → Measure → Find bottlenecks → Improve
+```
 
 <a href="https://github.com/DipasDi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://t.me/Dipas_di"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
 <a href="https://discord.com/users/1075427758898950174"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
-
-<br/><br/>
-
-```text
-Build → Measure → Learn → Improve
-```
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=90&section=footer" width="100%"/>
 
