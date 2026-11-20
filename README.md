@@ -1,28 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=DIPAS&fontSize=60&fontColor=58A6FF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Go%20Developer&descAlignY=62&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="assets/banner.png" width="100%" alt="Dipas · Backend Developer">
 
 <br/>
 
-<a href="https://github.com/DipasDi"><img src="https://img.shields.io/badge/GitHub-DipasDi-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" /></a>
-<a href="https://t.me/Dipas_di"><img src="https://img.shields.io/badge/Telegram-Contact-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" /></a>
-<a href="https://discord.com/users/1075427758898950174"><img src="https://img.shields.io/badge/Discord-Dipas-0D1117?style=for-the-badge&logo=discord&logoColor=58A6FF&labelColor=0D1117" /></a>
+<a href="https://dipass.ru"><img src="https://img.shields.io/badge/Website-dipass.ru-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A&labelColor=FFFFFF"/></a>
+<a href="https://t.me/Dipas_di"><img src="https://img.shields.io/badge/Telegram-Связаться-0A0A0A?style=for-the-badge&logo=telegram&logoColor=3DDC84"/></a>
+<a href="https://discord.com/users/1075427758898950174"><img src="https://img.shields.io/badge/Discord-Dipas-0A0A0A?style=for-the-badge&logo=discord&logoColor=3DDC84"/></a>
+<a href="https://github.com/DipasDi/iFinderMusic"><img src="https://img.shields.io/badge/iFinderMusic-0A0A0A?style=for-the-badge&logo=spotify&logoColor=3DDC84"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=I+build+software%2C+not+just+features.;Go+%7C+Backend+%7C+Systems+%7C+Performance;Design+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Go%20%26%20Backend-0D1117?style=flat-square&labelColor=161B22&color=58A6FF"/>
-<img src="https://img.shields.io/badge/Based%20on-Architecture%20%26%20Performance-0D1117?style=flat-square&labelColor=161B22&color=58A6FF"/>
-<img src="https://komarev.com/ghpvc/?username=DipasDi&style=flat-square&labelColor=161B22&color=58A6FF" alt="Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=3DDC84&center=true&vCenter=true&width=700&lines=~%2Fdipas+%24+run+main.go;%E2%9C%93+server+started;Go+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Design+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" />
 
 </div>
 
 <br/>
 
-## `01` · Core Focus & Principles
+## `01` · ~/about
+
+Backend-разработчик на **Go**. Делаю REST API на Gin, fasthttp и Gorilla, работаю со стандартной библиотекой, горутинами и контекстами, базами данных и контейнеризацией. Интерфейсы проектирую в Figma.
+
+Портфолио, проекты и CV: **[dipass.ru](https://dipass.ru)**
 
 <table width="100%">
 <tr>
@@ -33,7 +32,7 @@
 • Backend:      Go, REST APIs, WebSockets, SQL/NoSQL
 • Performance:  Profiling, Benchmarking, Optimization
 • Systems:      Architecture, Caching, Observability
-• Full-stack:   React, React Native, Expo (when needed)
+• UX/UI:        Figma, interfaces for my own products
 ```
 
 </td>
@@ -53,40 +52,60 @@
 
 <br/>
 
-## `02` · Tech Stack
+## `02` · ~/arsenal
 
 <table width="100%">
 <tr>
-  <td width="160" valign="middle"><b>Languages & UI</b></td>
-  <td><img src="https://skillicons.dev/icons?i=go,ts,js,react" /></td>
+  <td width="160" valign="middle"><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=go,ts,js,react&theme=dark" /></td>
 </tr>
 <tr>
   <td width="160" valign="middle"><b>Backend & Infra</b></td>
-  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,nginx,docker,linux,git" /></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,nginx,docker,linux,git&theme=dark" /></td>
+</tr>
+<tr>
+  <td width="160" valign="middle"><b>Go frameworks</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Gin-0A0A0A?style=flat-square&logo=gin&logoColor=3DDC84"/>
+    <img src="https://img.shields.io/badge/fasthttp-0A0A0A?style=flat-square&logoColor=3DDC84"/>
+    <img src="https://img.shields.io/badge/Gorilla-0A0A0A?style=flat-square&logoColor=3DDC84"/>
+  </td>
 </tr>
 <tr>
   <td width="160" valign="middle"><b>Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=vscode,figma" /></td>
+  <td><img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" /></td>
 </tr>
 </table>
 
-<div align="center">
 <br/>
+
+## `03` · ~/projects
+
+| | |
+|---|---|
+| **[UIXDB](https://github.com/DipasDi/UIXDB)** | Веб-клиент для PostgreSQL: SQL-консоль, редактор таблиц, ERD. `HTML` `JS` |
+| **[iFinderMusic](https://github.com/DipasDi/iFinderMusic)** | Telegram-бот на Go: поиск и скачивание музыки в MP3. `Go` |
+
+<div align="center">
 <a href="https://github.com/DipasDi?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0A0A0A?style=for-the-badge&logo=github&logoColor=3DDC84&labelColor=0A0A0A"/>
 </a>
 </div>
 
 <br/>
 
-## `03` · Metrics & Activity
+## `04` · ~/metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipasDi&theme=github_dark" width="100%" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipasDi&theme=github_dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipasDi&theme=github_dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DipasDi&theme=github_dark&utcOffset=3" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipasDi&bg_color=0A0A0A&color=3DDC84&line=3DDC84&point=FFFFFF&area=true&area_color=3DDC84&hide_border=true&radius=10&custom_title=Recent%20activity" width="100%" alt="Activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipasDi&theme=merko" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipasDi&theme=merko" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DipasDi&theme=merko&utcOffset=3" width="32%" />
+
 </div>
 
 <br/>
@@ -97,10 +116,12 @@
 Idea → Design → Build → Measure → Find bottlenecks → Improve
 ```
 
-<a href="https://github.com/DipasDi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://t.me/Dipas_di"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
-<a href="https://discord.com/users/1075427758898950174"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
+<a href="https://github.com/DipasDi"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://t.me/Dipas_di"><img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
+<a href="https://discord.com/users/1075427758898950174"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=90&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:0F2A1A&height=90&section=footer" width="100%"/>
 
 </div>
